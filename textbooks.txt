@@ -1,1 +1,2 @@
-Textbook,Condition,Grade,Name and Email
+Textbook,Condition,Price,Grade,Name and Email
+Oxford School Shakespeare Macbeth,Good,$4,M3,N/A
